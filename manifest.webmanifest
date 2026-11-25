@@ -1,0 +1,17 @@
+{
+  "name": "Fallen Colonist",
+  "short_name": "Colonist",
+  "description": "Постапокалиптическая стратегия-RPG: отряд колонистов на живой карте. Демо.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#1c1b18",
+  "theme_color": "#1c1b18",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
